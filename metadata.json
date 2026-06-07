@@ -1,0 +1,6 @@
+{
+  "name": "Banking BA Interview Master",
+  "description": "An addictive, gamified learning platform for cracking Banking, Payments, and Remittance Business Analyst interviews, styled like a modern fluid quiz game with interactive pro-tips, memory tricks, and committee hire-verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
