@@ -1091,8 +1091,6 @@ const questions = [
     },
     isScenario: true
   }
-
-  export default questions;
 ];
 
-module.exports = questions;
+export default questions;
