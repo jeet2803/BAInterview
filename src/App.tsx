@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Question, QuizSession, QuizMode, UserStats } from './types';
-import { questions } from './data/questions';
+import questions from './data/questions';
 import { MetricCard } from './components/MetricCard';
 import { BadgeViewer, BADGES, getRank } from './components/BadgeViewer';
 import { TopicSelector } from './components/TopicSelector';
